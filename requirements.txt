@@ -5,6 +5,6 @@
 azure-functions
 yfinance
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 scipy.signal
