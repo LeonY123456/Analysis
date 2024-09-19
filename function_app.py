@@ -1,6 +1,6 @@
 import logging
 import azure.functions as func
-from stock_analysis import StockAnalysis  
+from analysis import StockAnalysis  
 
 app = func.FunctionApp()
 
